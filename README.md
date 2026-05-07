@@ -4,30 +4,32 @@ An intelligent and remotely operated defence rover designed for surveillance, mo
 
 
 ## Features
-Wireless communication using NRF24L01 transceiver modules
-Real-time remote control of rover movement
-Obstacle detection using ultrasonic sensors
-Camera module integration for surveillance and monitoring
-Rugged rover chassis for rough terrain navigation
-Low-power and long-range communication system
-Expandable architecture for future AI and IoT integration
+1. Wireless communication using NRF24L01 transceiver modules
+2. Real-time remote control of rover movement
+3. Obstacle detection using ultrasonic sensors
+4. Camera module integration for surveillance and monitoring
+5. Rugged rover chassis for rough terrain navigation
+6. Low-power and long-range communication system
+7. Expandable architecture for future AI and IoT integration
 
 
 ## Hardware Components
-Arduino Nano
-NRF24L01 Transceiver Modules
-L298N Motor Driver
-DC Motors with Wheels
-Ultrasonic Sensor (HC-SR04)
-ESP32-CAM / USB Camera Module
-IR Sensors
-Li-ion Battery Pack
-Rover Chassis
-💻 Software Used
-Arduino IDE
-Embedded C / C++
-NRF24 Library
-Serial Communication Protocols
+1. Arduino Nano
+2. NRF24L01 Transceiver Modules
+3. L298N Motor Driver
+4. DC Motors with Wheels
+5. Ultrasonic Sensor (HC-SR04)
+6. ESP32-CAM / USB Camera Module
+7. IR Sensors
+8. Li-ion Battery Pack
+9. Rover Chassis
+
+
+## Software Used
+1. Arduino IDE
+2. Embedded C / C++
+3. NRF24 Library
+4. Serial Communication Protocols
 
 
 ## Working Principle
@@ -35,16 +37,16 @@ The transmitter module sends control commands wirelessly through the NRF24L01 co
 
 
 ## Applications
-Defence surveillance
-Border security monitoring
-Hazardous environment inspection
-Search and rescue operations
-Military reconnaissance missions
+1. Defence surveillance
+2. Border security monitoring
+3. Hazardous environment inspection
+4. Search and rescue operations
+5. Military reconnaissance missions
 
 
 ## Future Enhancements
-GPS-based navigation
-AI-powered object detection
-Night vision camera integration
-Autonomous path planning
-IoT cloud monitoring system
+1. GPS-based navigation
+2. AI-powered object detection
+3. Night vision camera integration
+4. Autonomous path planning
+5. IoT cloud monitoring system
